@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main short discription entry point to program
+ * main -  Entry point to program
  *
- * Description : this program print size of data types
+ * Description :'this program print size of data types'
  *
- * return always (0) success
+ * Return: Always 0 (Success)
 */
 
 int main(void)
